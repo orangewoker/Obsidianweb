@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/web/Homepage/","tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
 ---
 
-![89(1).jpg](/img/user/89(1).jpg)
+![89(1).jpg](/img/user/photos/89(1).jpg)
 
 [[web/聚沙成 “影”，苹果总部园区公共永久性雕塑装置\|聚沙成 “影”，苹果总部园区公共永久性雕塑装置]]
 
