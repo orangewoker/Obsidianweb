@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/web/Homepage/"}
+{"dg-publish":true,"permalink":"/web/Homepage/","tags":["gardenEntry"]}
 ---
 
-```
----
-dg-publish: true
-dg-home: true
----
-```
+案例
+[[web/聚沙成 “影”，苹果总部园区公共永久性雕塑装置\|聚沙成 “影”，苹果总部园区公共永久性雕塑装置]]
